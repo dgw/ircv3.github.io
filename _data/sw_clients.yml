@@ -1333,6 +1333,7 @@
           sasl-3.1: "4.1.0+"
           sasl-3.2: "7.1.0+"
           server-time: "6.2.0+"
+          setname: "8.1.0+"
           userhost-in-names: "8.0.0+"
           whox: "6.2.0+"
         SASL:
